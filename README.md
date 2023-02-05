@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there! 
+### I'm a beginner QA engineer!
 
-<!--
-**djartvi/djartvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: My tools:
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg" title="Selenium" alt="Selenium " width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/NotKisshore/skill-icons/c6c90d2b880b43d2099b489949cea0fbcfcd700e/icons/Idea-Dark.svg"  title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/NotKisshore/skill-icons/c6c90d2b880b43d2099b489949cea0fbcfcd700e/icons/PostgreSQL-Dark.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
