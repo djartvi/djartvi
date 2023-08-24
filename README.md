@@ -1,7 +1,5 @@
 ### Hey there! 
-### I'm a beginner QA automation engineer!
 
-### :hammer_and_wrench: Skilled in:
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
